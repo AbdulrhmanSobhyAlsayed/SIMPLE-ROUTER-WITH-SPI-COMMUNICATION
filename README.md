@@ -11,7 +11,7 @@ to the destination port and the error flag will be asserted.<br>
 
 Stage1:<br>
 
-desining a simple router that its packet input from the FPGA’s switches and the output data
+designing a simple router that its packet input from the FPGA’s switches and the output data
 display in the FPGA’s four 7-segment display and the output port number display by the
 FPGA’s LED.<br>
 
