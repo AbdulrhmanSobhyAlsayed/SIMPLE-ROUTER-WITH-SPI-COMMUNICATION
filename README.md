@@ -23,3 +23,6 @@ the output port number display by the FPGA’s led.<br>
 
 **For Arduino Code**
 <a href="ArduinoCode/sendingDataToFPGA.ino">Clik here</a>
+
+**For Stage1 Code**
+<a href="verilogCode/stage1/simpleRouter.v">Clik here</a>
