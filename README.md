@@ -26,3 +26,6 @@ the output port number display by the FPGA’s led.<br>
 
 **For Stage1 Code**
 <a href="verilogCode/stage1/simpleRouter.v">Clik here</a>
+
+**For Stage2 Code**
+<a href="verilogCode/stage2/simpleRouterWithSpiCommunication.v">Clik here</a>
