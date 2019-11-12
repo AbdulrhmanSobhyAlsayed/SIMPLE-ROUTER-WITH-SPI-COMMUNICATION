@@ -21,5 +21,5 @@ We develop the design in stage 1. Since the simple router will receive the packe
 Arduino by SPI protocol and the output data display in the FPGA’s four 7-segment display and
 the output port number display by the FPGA’s led.<br>
 
-# The Project Picture
-<img src="images/theProject.jpeg">
+**For Arduino Code**
+<a href="ArduinoCode/sendingDataToFPGA.ino">Clik here</a>
