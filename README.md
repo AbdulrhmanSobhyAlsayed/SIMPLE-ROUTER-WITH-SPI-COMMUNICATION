@@ -11,13 +11,13 @@ to the destination port and the error flag will be asserted.<br>
 
 Stage1:<br>
 
-We design a simple router that its packet input from the FPGA’s switches and the output data
+desining a simple router that its packet input from the FPGA’s switches and the output data
 display in the FPGA’s four 7-segment display and the output port number display by the
 FPGA’s LED.<br>
 
 Stage2:<br>
 
-We develop the design in stage 1. Since the simple router will receive the packet from the
+ the simple router will receive the packet from the
 Arduino by SPI protocol and the output data display in the FPGA’s four 7-segment display and
 the output port number display by the FPGA’s led.<br>
 
@@ -29,3 +29,6 @@ the output port number display by the FPGA’s led.<br>
 
 **For Stage2 Code**
 <a href="verilogCode/stage2/simpleRouterWithSpi.v">Clik here</a>
+
+**For The Project Report**
+<a href="finalProjectReportEE460.pdf">Clik here</a>
